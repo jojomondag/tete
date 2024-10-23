@@ -1,0 +1,16 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="tete.MainWindow"
+        Title="tete">
+    
+    <Grid>
+        <!-- Display the SVG image -->
+        <Image Source="{SvgImage avares://tete/Assets/OPEN.svg}" Width="200" Height="200" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        
+        <!-- You can add other content here as needed -->
+        <TextBlock Text="Welcome to Avalonia!" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,50"/>
+    </Grid>
+</Window>

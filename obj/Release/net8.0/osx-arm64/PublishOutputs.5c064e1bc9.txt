@@ -1,0 +1,5 @@
+C:\Users\Josef\Documents\GitHub\weee\tete\bin\Release\net8.0\osx-arm64\publish\tete.pdb
+C:\Users\Josef\Documents\GitHub\weee\tete\bin\Release\net8.0\osx-arm64\publish\libAvaloniaNative.dylib
+C:\Users\Josef\Documents\GitHub\weee\tete\bin\Release\net8.0\osx-arm64\publish\libHarfBuzzSharp.dylib
+C:\Users\Josef\Documents\GitHub\weee\tete\bin\Release\net8.0\osx-arm64\publish\libSkiaSharp.dylib
+C:\Users\Josef\Documents\GitHub\weee\tete\bin\Release\net8.0\osx-arm64\publish\tete
